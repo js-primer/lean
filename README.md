@@ -4,7 +4,7 @@
 
 ## 見る方法
 
-
+- https://js-primer.github.io/lean/
 
 ## ビルド方法
 
